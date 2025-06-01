@@ -1,0 +1,1 @@
+{"train score":{"knn":0.90060015,"logisticregression":0.8709677419,"svc":0.9913728432,"decisiontreeclassifier":0.9576144036},"test score":{"knn":0.8740629685,"logisticregression":0.856071964,"svc":0.9205397301,"decisiontreeclassifier":0.9370314843},"average fit time":{"knn":0.9948341846,"logisticregression":0.1116873423,"svc":1.1542244752,"decisiontreeclassifier":0.1495241324}}
